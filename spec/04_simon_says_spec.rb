@@ -1,4 +1,17 @@
-require_relative '../lib/04_simon_says'
+# # Simon Says
+#
+# ## Topics
+#
+# * functions
+# * strings
+# * default parameter values
+#
+# ## Hints
+#
+# When you make the second `repeat` test pass, you might break the **first**
+#
+
+require_relative "../lib/04_simon_says"
 
 describe "Simon says" do
   describe "echo" do

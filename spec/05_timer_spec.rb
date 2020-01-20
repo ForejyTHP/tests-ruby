@@ -1,4 +1,4 @@
-require_relative '../lib/05_timer'
+require_relative "../lib/05_timer"
 
 describe 'time_string' do
   it "should display 0 seconds as 00:00:00" do
